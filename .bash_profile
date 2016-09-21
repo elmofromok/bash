@@ -80,8 +80,6 @@ export HISTCONTROL=ignoredups
 
 # use Sublime as default editor
 export EDITOR="subl"
-export RAILS_ENV="development"
-export ADF_ENV="development"
 
 alias workspace="cd /Users/chad/Documents/workspace/"
 
