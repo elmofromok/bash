@@ -81,6 +81,6 @@ export HISTCONTROL=ignoredups
 # use Sublime as default editor
 export EDITOR="subl"
 
-alias workspace="cd /Users/chad/Documents/workspace/"
+alias workspace="cd /Users/chadhenderson/Documents/workspace/"
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
